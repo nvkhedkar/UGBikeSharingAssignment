@@ -34,7 +34,8 @@ In this project we had model the demand for shared bikes with the available inde
   
 - Weekday and workingday were also labelled wrongly
 - This was confirmed after inspecting date column
-- The values for weekday and workingday were corrected  
+- The values for weekday and workingday were corrected
+- weekdays are now 0 to 6 for Monday to Sunday  
 
 ## Conclusions
 
