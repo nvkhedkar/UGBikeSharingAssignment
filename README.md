@@ -76,7 +76,7 @@ In this project we had model the demand for shared bikes with the available inde
 - Month was dropped to simplify the model. 
 - It had high p-values. 
 - Another alternative would be to drop season and keep month. 
-- But this gave similar R2_score and so season was kept.
+- But this gave similar R2_score and so season was kept for simplicity.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
