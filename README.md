@@ -24,7 +24,7 @@ In this project we had model the demand for shared bikes with the available inde
 ## Important Corrections
 
 - seasons are labeled as 1: spring, 2: summer, 3: Fall, 4: Winter
-- But a plot of season vs month and season vs temp shows that season labels are wrong
+- But a plot of season vs month and month vs temp shows that season labels are wrong
 - According to the data months for spring are Dec, Jan, Feb, Mar
 - But actual months for spring are Mar, Apr, May, Jun
 - The temperature plot confirms this.
